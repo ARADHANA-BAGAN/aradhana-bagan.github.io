@@ -1,0 +1,11 @@
+.subsections {
+    margin-top: 20px;
+    padding: 20px;
+    background: #f4f4f4;
+    border-radius: 10px;
+}
+
+.subsections h3 {
+    color: #2c3e50;
+    margin-bottom: 10px;
+}
